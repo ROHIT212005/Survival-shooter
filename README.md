@@ -14,7 +14,13 @@
 [Unity.com]: https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black
 [Unity-url]: https://unity.com/
 
+## Documentation
 
+### Game Preview
+<img src="Preview/play.png" width="400" height="200"> <img src="Preview/shoot.png" width="400" height="200"> <img src="Preview/enemy.png" width="400" height="200"> <img src="Preview/enemyshot.png" width="400" height="200"> <img src="Preview/power.png" width="400" height="200"> <img src="Preview/newenemy.png" width="400" height="200"> 
+
+### Demo
+<img src="Preview/demo.gif" width="400" height="200">
 
 ## Prerequisite
 
