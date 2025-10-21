@@ -17,10 +17,10 @@
 ## Documentation
 
 ### Game Preview
-<img src="Preview/play.png" width="400" height="200"> <img src="Preview/shoot.png" width="400" height="200"> <img src="Preview/enemy.png" width="400" height="200"> <img src="Preview/enemyshot.png" width="400" height="200"> <img src="Preview/power.png" width="400" height="200"> <img src="Preview/newenemy.png" width="400" height="200"> 
+<img src="Previews/play.png" width="400" height="200"> <img src="Previews/shoot.png" width="400" height="200"> <img src="Previews/enemy.png" width="400" height="200"> <img src="Previews/enemyshot.png" width="400" height="200"> <img src="Previews/power.png" width="400" height="200"> <img src="Previews/newenemy.png" width="400" height="200"> 
 
 ### Demo
-<img src="Preview/demo.gif" width="400" height="200">
+<img src="Previews/demo.gif" width="400" height="200">
 
 ## Prerequisite
 
@@ -32,8 +32,3 @@
 
 - Add this project folder on Unity and run
 
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request.
